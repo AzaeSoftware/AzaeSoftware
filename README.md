@@ -31,8 +31,5 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://64.media.tumblr.com/21458e9d0214b82ae8722a997d089105/de7841ffb30c385e-e5/s400x600/11bf47fd0901ef82e218bab699eb2a9992441a14.jpg"  />
-</div>
 
 ###
