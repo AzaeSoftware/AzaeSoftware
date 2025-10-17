@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/assa.az.py?igsh=MW5jeXYyMjF0ZHZ6Mw==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
   </a>
-  <a href="discordapp.com/users/514600544803749888" target="_blank">
+  <a href="https://discordapp.com/users/514600544803749888" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
 </div>
