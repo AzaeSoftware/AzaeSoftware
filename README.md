@@ -59,7 +59,7 @@ Preparando un nuevo mundo digital pronto disponible...
 <br/>
 <br/>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&height=100&section=footer" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0066&height=100&section=footer" /> </p>
 
 
 
