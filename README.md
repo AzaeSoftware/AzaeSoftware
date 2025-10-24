@@ -35,5 +35,30 @@
 💻 Rol: Programador en crecimiento
 🔥 Intereses: ["Códigos", "Videojuegos", "Música", "Aprender cosas nuevas"]
 ⚔️ Lema: “Fallar, aprender, mejorar, repetir.”
-
+```
 <p align="center"> 🌱 "Un novato hoy, un maestro mañana." ⚡ </p>
+
+### 🚧 Mi página web
+
+<p align="left">🕹️ En construcción...</p>
+
+```yaml
+Preparando un nuevo mundo digital pronto disponible...
+```
+
+###📊 Stats de Juego
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AzaeSoftware&show_icons=true&theme=radical&hide_border=true" height="180em" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielPenafiel&theme=radical&hide_border=true" height="180em" /> </p>
+
+###⚡ Último pensamiento
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=“Simplicidad+es+la+máxima+sofisticación.”;“El+código+es+poesía+para+los+que+entienden.”" alt="quote"/> </p>
+
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&height=100&section=footer" /> </p> ```
+
+
+
+
+
+
