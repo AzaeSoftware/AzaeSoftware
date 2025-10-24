@@ -52,7 +52,9 @@ Preparando un nuevo mundo digital pronto disponible...
 
 ###⚡ Último pensamiento
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=“Simplicidad+es+la+máxima+sofisticación.”;“El+código+es+poesía+para+los+que+entienden.”" alt="quote"/> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Simplicidad+es+la+máxima+sofisticación.;El+código+es+poesía+para+los+que+entienden." alt="quote"/>
+</p>
 
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&height=100&section=footer" /> </p>
