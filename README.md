@@ -59,7 +59,7 @@ Preparando un nuevo mundo digital pronto disponible...
 ### ⚡ Último pensamiento
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=3500&pause=1500&color=9B9B9B,00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&lines=Simplicidad+es+la+m%C3%A1xima+sofisticaci%C3%B3n.;El+c%C3%B3digo+es+poes%C3%ADa+para+los+que+entienden." alt="Frase animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&height=70&size=20&duration=3500&pause=1500&color=9B9B9B,00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&lines=Simplicidad+es+la+m%C3%A1xima+sofisticaci%C3%B3n.;El+c%C3%B3digo+es+poes%C3%ADa+para+los+que+entienden." alt="Frase animada" />
 </p>
 
 
