@@ -35,3 +35,5 @@
 💻 Rol: Programador en crecimiento
 🔥 Intereses: ["Códigos", "Videojuegos", "Música", "Aprender cosas nuevas"]
 ⚔️ Lema: “Fallar, aprender, mejorar, repetir.”
+
+<p align="center"> 🌱 "Un novato hoy, un maestro mañana." ⚡ </p>
