@@ -1,47 +1,37 @@
-<h1 align="center">Hola, soy Peñafiel Del Rosario Gabriel :D</h1>
+<!-- Encabezado con animación -->
+<h1 align="center">
+  🎮 ¡Hey! Soy <span style="color:#ff0066;">Peñafiel Del Rosario Gabriel</span> ⚡
+</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FF0066&center=true&vCenter=true&width=600&lines=👾+Programador+en+nivel+1;🚀+Subiendo+de+XP+cada+día;💡+Construyendo+cosas+increíbles" alt="Typing SVG" />
+</p>
+
+---
 
 <div align="center">
-  <img height="450" src="https://static.wikia.nocookie.net/shuumatsu-no-valkyrie/images/3/31/Q%C3%ADn_se_sienta_en_la_silla_de_Hades.png/revision/latest?cb=20211031193031&path-prefix=es"  />
+  <img src="https://static.wikia.nocookie.net/shuumatsu-no-valkyrie/images/3/31/Q%C3%ADn_se_sienta_en_la_silla_de_Hades.png/revision/latest?cb=20211031193031&path-prefix=es" width="70%" style="border-radius:15px;" />
 </div>
 
-###
+---
 
-<h1 align="left">Conexiones</h1>
+### 🌐 Conexiones
 
-###
-
-<div align="left">
+<p align="center">
   <a href="https://www.instagram.com/assa.az.py?igsh=MW5jeXYyMjF0ZHZ6Mw==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discordapp.com/users/514600544803749888" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<h1 align="left">Sobre Mi</h1>
+### 💀 Sobre mí
 
-###
-
-<p align="left">Hello World!!<br><br>-Solo soy un novato :c</p>
-
-###
-
-<h1 align="left">Mi pagina web</h1>
-
-###
-
-<p align="left">PROXIMAMENTE! </p>
-
-###
-
-<h1 align="left">Exit</h1>
-
-###
-
-
-###
+```yaml
+🎮 Nombre: Peñafiel Del Rosario Gabriel
+💻 Rol: Programador en crecimiento
+🔥 Intereses: ["Códigos", "Videojuegos", "Música", "Aprender cosas nuevas"]
+⚔️ Lema: “Fallar, aprender, mejorar, repetir.”
