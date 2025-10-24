@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FF0066&center=true&vCenter=true&width=600&lines=👾+Programador+en+nivel+1;🚀+Subiendo+de+XP+cada+día;💡+Construyendo+cosas+increíbles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FF0066&center=true&vCenter=true&width=700&lines=%F0%9F%91%BE+Programador+en+nivel+1;%F0%9F%9A%80+Subiendo+de+XP+cada+d%C3%ADa;%F0%9F%92%A1+Construyendo+cosas+incre%C3%ADbles" alt="Typing SVG" />
 </p>
 
 ---
@@ -56,6 +56,8 @@ Preparando un nuevo mundo digital pronto disponible...
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1500&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&lines=Simplicidad+es+la+m%C3%A1xima+sofisticaci%C3%B3n.;El+c%C3%B3digo+es+poes%C3%ADa+para+los+que+entienden." alt="Frase animada" />
 </p>
 
+<br/>
+<br/>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&height=100&section=footer" /> </p>
 
