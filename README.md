@@ -46,14 +46,14 @@
 Preparando un nuevo mundo digital pronto disponible...
 ```
 
-###📊 Stats de Juego
+### 📊 Stats de Juego
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AzaeSoftware&show_icons=true&theme=radical&hide_border=true" height="180em" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielPenafiel&theme=radical&hide_border=true" height="180em" /> </p>
 
-###⚡ Último pensamiento
+### ⚡ Último pensamiento
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Simplicidad+es+la+máxima+sofisticación.;El+código+es+poesía+para+los+que+entienden." alt="quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1500&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&lines=Simplicidad+es+la+m%C3%A1xima+sofisticaci%C3%B3n.;El+c%C3%B3digo+es+poes%C3%ADa+para+los+que+entienden." alt="Frase animada" />
 </p>
 
 
