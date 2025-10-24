@@ -38,6 +38,8 @@
 ```
 <p align="center"> 🌱 "Un novato hoy, un maestro mañana." ⚡ </p>
 
+---
+
 ### 🚧 Mi página web
 
 <p align="left">🕹️ En construcción...</p>
@@ -46,9 +48,13 @@
 Preparando un nuevo mundo digital pronto disponible...
 ```
 
+---
+
 ### 📊 Stats de Juego
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AzaeSoftware&show_icons=true&theme=radical&hide_border=true" height="180em" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielPenafiel&theme=radical&hide_border=true" height="180em" /> </p>
+
+---
 
 ### ⚡ Último pensamiento
 
